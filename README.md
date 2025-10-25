@@ -2,4 +2,4 @@
 Extract passwords from memory with strace
 
 
-Tested on Rasbian `4.19.66-v7+`
+Tested on Kali rolling 2025-10-25
